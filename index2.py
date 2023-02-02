@@ -22,4 +22,4 @@ for message in messages:
     df_mail.loc[i,"body"] = str(message.body)
     i +=1
 
-print(df_mail)
+df_mail.to_excel('pd_data.xlsx', sheet_name='new_sheet', header=False, index=False)

@@ -9,3 +9,7 @@ index3
 https://python-work.com/excel-to-excel/
 
 pip install openpyxl
+
+# json について
+
+https://qiita.com/Morio/items/7538a939cc441367070d
